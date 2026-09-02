@@ -1,0 +1,17 @@
+{
+	id: "0f2159c4-14a5-3d96-97b2-114fd46446ae"
+	type: "player"
+	player_name: "santiproi"
+	ranks: {
+		0f2159c4-14a5-3d96-97b2-114fd46446ae: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "santiproi"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF8A59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

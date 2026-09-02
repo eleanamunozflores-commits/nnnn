@@ -1,0 +1,15 @@
+{
+	id: "d3ef3ba6-0dd7-3c78-8f6a-6b2d059134bb"
+	type: "player"
+	player_name: "epico9"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "epico9"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E1FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
